@@ -10,6 +10,8 @@
 
 ### AIM:
 To implement ARMA model in python.
+
+
 ### ALGORITHM:
 1. Import necessary libraries.
 2. Set up matplotlib settings for figure size.
@@ -27,6 +29,9 @@ axis limits.
 
 6. Display the autocorrelation and partial autocorrelation plots for the ARMA(2,2) process using
 plot_acf and plot_pacf.
+
+
+
 ### PROGRAM:
 ~~~
 import pandas as pd
